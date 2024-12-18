@@ -66,7 +66,7 @@ body {
   color: #3a3a3a;
 }
 
-.form__title,
+.form__title, 
 .form__new_task {
   color: #333;
   font-weight: 700;
