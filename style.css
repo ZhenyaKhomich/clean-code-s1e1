@@ -129,7 +129,7 @@ body {
   box-sizing: border-box;
   font-size: 18px;
 }
-.input-task {
+.input__input_task {
   width: 226px;
 }
 .form__img_delete {
@@ -148,7 +148,7 @@ transition: transform 200ms ease-in;
 }
 
 /* Edit Task */
-.input-task:not(.add-input) {
+.form__input_task:not(.form__add_input) {
   display: none
 }
 
